@@ -1,0 +1,1382 @@
+[
+    {
+        "scenario":  "Saya mendahulukan penyelesaian urusan mahasiswa/pengguna layanan di atas kepentingan tugas administratif internal yang tidak mendesak.",
+        "category":  "Mindset",
+        "id":  1,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menggunakan bahasa yang sederhana dan mudah dipahami dalam memberikan arahan atau informasi.",
+        "category":  "Mindset",
+        "id":  2,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memahami bahwa keterlambatan kecil dalam pelayanan dapat berdampak pada rencana studi atau karier mahasiswa/pengguna.",
+        "category":  "Mindset",
+        "id":  3,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia menyesuaikan cara komunikasi (misal: lewat email, pesan singkat, atau tatap muka) demi kenyamanan pengguna layanan.",
+        "category":  "Mindset",
+        "id":  4,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya segera mencari solusi tanpa menunggu instruksi atau teguran dari atasan ketika menemukan masalah dalam pelayanan",
+        "category":  "Mindset",
+        "id":  5,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan alternatif solusi ketika prosedur standar tidak dapat diterapkan pada kasus tertentu.",
+        "category":  "Mindset",
+        "id":  6,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berusaha mengoptimalkan sumber daya yang ada (fasilitas/sistem) untuk membantu pengguna, meskipun sarana yang tersedia terbatas.",
+        "category":  "Mindset",
+        "id":  7,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berupaya memperbaiki sistem kerja agar masalah yang sama tidak terulang kembali",
+        "category":  "Mindset",
+        "id":  8,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia berkoordinasi lintas unit untuk menemukan solusi masalah pengguna yang melibatkan banyak pihak.",
+        "category":  "Mindset",
+        "id":  9,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya tetap fokus pada pencarian solusi daripada mengeluh saat menghadapi situasi pelayanan yang sulit atau menumpuk.",
+        "category":  "Mindset",
+        "id":  10,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya antusias mempelajari teknologi digital baru yang dapat mempermudah pekerjaan.",
+        "category":  "Mindset",
+        "id":  11,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya melihat perubahan kebijakan atau struktur organisasi sebagai peluang untuk memperbaiki proses pelayanan yang ada.",
+        "category":  "Mindset",
+        "id":  12,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya secara mandiri mencari referensi atau mengikuti pelatihan untuk meningkatkan kompetensi dalam melayani mahasiswa/rekan kerja.",
+        "category":  "Mindset",
+        "id":  13,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya tetap tenang dan mencoba berbagai cara hingga menemukan metode yang paling efektif dalam menghadapi kendala teknis dalam pelayanan",
+        "category":  "Mindset",
+        "id":  14,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menghargai kritik dan saran dari pengguna layanan sebagai bahan evaluasi untuk memperbaiki kekurangan dalam cara kerja.",
+        "category":  "Mindset",
+        "id":  15,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia mengambil tanggung jawab baru di luar tugas rutin jika hal tersebut diperlukan demi kelancaran operasional unit.",
+        "category":  "Mindset",
+        "id":  16,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berusaha memahami urgensi dan perasaan pengguna layanan saat menghadapi masalah administratif atau akademik",
+        "category":  "Mindset",
+        "id":  17,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya mendengarkan dengan penuh perhatian tanpa memotong pembicaraan saat mahasiswa atau rekan kerja menyampaikan keluhan.",
+        "category":  "Mindset",
+        "id":  18,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya merespon dengan sikap yang menenangkan kepada pengguna layanan mengalami kesulitan.",
+        "category":  "Mindset",
+        "id":  19,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menggunakan bahasa yang menunjukkan rasa hormat kepada pengguna layanan.",
+        "category":  "Mindset",
+        "id":  20,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan perhatian khusus pada mahasiswa/pengguna yang memiliki keterbatasan (misal: difabel atau yang sedang mengalami musibah) agar tetap mendapatkan layanan yang setara.",
+        "category":  "Mindset",
+        "id":  21,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya merasa bersalah secara profesional jika layanan yang diberikan tidak memenuhi harapan atau menghambat urusan orang lain.",
+        "category":  "Mindset",
+        "id":  22,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya mengambil tindakan perbaikan terhadap proses layanan yang kurang efektif tanpa harus menunggu perintah dari atasan.",
+        "category":  "Mindset",
+        "id":  23,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memastikan setiap permohonan atau masalah pengguna layanan selesai hingga tuntas, bukan sekadar memindahkan tugas ke orang lain.",
+        "category":  "Mindset",
+        "id":  24,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya secara rutin menginformasikan progres atau status layanan kepada pengguna agar mendapatkan kepastian.",
+        "category":  "Mindset",
+        "id":  25,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia mengakui dan segera melakukan langkah perbaikan tanpa mencari-cari alasan pada saat terjadi kesalahan dalam pelayanan.",
+        "category":  "Mindset",
+        "id":  26,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berupaya memberikan hasil kerja yang lebih baik daripada sekadar memenuhi standar minimal (SOP) yang ditetapkan.",
+        "category":  "Mindset",
+        "id":  27,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya mencoba mengantisipasi potensi kendala yang akan dihadapi mahasiswa/rekan kerja dan memberikan saran pencegahan sebelum masalah tersebut muncul.",
+        "category":  "Mindset",
+        "id":  28,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menanggapi setiap pertanyaan atau permohonan layanan (melalui email/WA/fisik) sesegera mungkin pada jam kerja.",
+        "category":  "Culture",
+        "id":  29,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya segera memproses berkas atau permohonan yang masuk agar tidak terjadi penumpukan pekerjaan.",
+        "category":  "Culture",
+        "id":  30,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya mudah dihubungi (melalui media komunikasi resmi atau tatap muka) selama jam kerja untuk memberikan bantuan.",
+        "category":  "Culture",
+        "id":  31,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan kepastian mengenai kapan suatu proses akan selesai kepada pengguna layanan.",
+        "category":  "Culture",
+        "id":  32,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya segera menginformasikan kepada pengguna jika terdapat kendala yang menyebabkan layanan terlambat dari waktu yang dijanjikan.",
+        "category":  "Culture",
+        "id":  33,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menunjukkan sikap antusias dan tidak keberatan ketika diminta bantuan oleh pengguna layanan yang sedang kesulitan.",
+        "category":  "Culture",
+        "id":  34,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya mampu mengidentifikasi dan mendahulukan layanan yang bersifat darurat/mendesak bagi kepentingan mahasiswa atau institusi.",
+        "category":  "Culture",
+        "id":  35,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan informasi yang konsisten dan akurat mengenai persyaratan serta durasi waktu penyelesaian suatu urusan.",
+        "category":  "Culture",
+        "id":  36,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menyelesaikan tugas dan janji pelayanan sesuai dengan waktu yang telah disepakati atau dijanjikan di awal.",
+        "category":  "Culture",
+        "id":  37,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memastikan data atau informasi yang  diberikan kepada pengguna layanan selalu akurat dan dapat dipertanggungjawabkan.",
+        "category":  "Culture",
+        "id":  38,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menjelaskan alur pelayanan dan persyaratan secara jujur dan terbuka tanpa ada yang ditutup-tutupi.",
+        "category":  "Culture",
+        "id":  39,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan informasi yang tegas bahwa seluruh layanan dilakukan sesuai aturan dan bebas dari biaya tidak resmi (pungli).",
+        "category":  "Culture",
+        "id":  40,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia memberikan informasi mengenai status atau posisi dokumen yang sedang diproses agar pengguna merasa tenang.",
+        "category":  "Culture",
+        "id":  41,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya melaksanakan tugas pelayanan sesuai dengan SOP tanpa mengharapkan atau menerima imbalan tambahan (gratifikasi).",
+        "category":  "Culture",
+        "id":  42,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menolak segala bentuk manipulasi data, gratifikasi, atau pemberian dalam bentuk apa pun yang dapat memengaruhi objektivitas layanan.",
+        "category":  "Culture",
+        "id":  43,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya hadir dan memulai pelayanan tepat waktu sesuai dengan jadwal yang telah ditetapkan oleh institusi.",
+        "category":  "Culture",
+        "id":  44,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memberikan kualitas layanan yang sama kepada semua pengguna tanpa membedakan latar belakang, jabatan, atau hubungan personal.",
+        "category":  "Culture",
+        "id":  45,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berani mengakui kesalahan kerja dan segera melakukan perbaikan daripada mencari alasan untuk membela diri.",
+        "category":  "Culture",
+        "id":  46,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memastikan hasil pekerjaan saya memenuhi standar mutu yang ditetapkan, meskipun tanpa pengawasan langsung dari pimpinan.",
+        "category":  "Culture",
+        "id":  47,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berkoordinasi secara aktif dengan unit kerja lain untuk memastikan urusan mahasiswa/rekan kerja tidak terhambat oleh ego sektoral.",
+        "category":  "Culture",
+        "id":  48,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia membagikan informasi atau pengalaman kerja yang bermanfaat kepada rekan sejawat demi kemajuan bersama.",
+        "category":  "Culture",
+        "id":  49,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya lebih mengutamakan keberhasilan tujuan universitas daripada sekadar menonjolkan keberhasilan unit kerja saya sendiri.",
+        "category":  "Culture",
+        "id":  50,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menghargai peran dan beban kerja rekan sejawat (baik sesama dosen, sesama tendik, maupun lintas profesi).",
+        "category":  "Culture",
+        "id":  51,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya bersedia membantu rekan kerja yang sedang mengalami beban kerja tinggi demi menjaga kualitas layanan institusi.",
+        "category":  "Culture",
+        "id":  52,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya fokus pada mencari solusi bersama pada saat terjadi masalah yang melibatkan banyak unit,",
+        "category":  "Culture",
+        "id":  53,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya secara aktif mengusulkan ide perbaikan sistem atau cara kerja yang lebih praktis untuk mempersingkat birokrasi.",
+        "category":  "Culture",
+        "id":  54,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya secara aktif mencari dan mengusulkan cara kerja baru yang lebih efisien untuk memangkas birokrasi di unit saya.",
+        "category":  "Culture",
+        "id":  55,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya menggunakan data (seperti hasil survei kepuasan atau laporan kinerja) sebagai dasar untuk memperbaiki layanan berikutnya.",
+        "category":  "Culture",
+        "id":  56,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya memandang keluhan dari mahasiswa atau rekan kerja sebagai peluang untuk melakukan perbaikan sistem, bukan sebagai serangan pribadi.",
+        "category":  "Culture",
+        "id":  57,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya terbuka untuk mengadopsi cara kerja sukses dari unit atau institusi lain yang terbukti lebih efektif dan memudahkan pengguna.",
+        "category":  "Culture",
+        "id":  58,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya berusaha mengidentifikasi dan mengusulkan penghapusan langkah-langkah kerja yang tidak perlu (waste) dalam proses administrasi/akademik.",
+        "category":  "Culture",
+        "id":  59,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    },
+    {
+        "scenario":  "Saya rutin memperbarui pengetahuan dan keterampilan saya secara mandiri agar tetap relevan dengan standar pelayanan modern.",
+        "category":  "Culture",
+        "id":  60,
+        "options":  [
+                        {
+                            "text":  "Sangat Tidak Setuju",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Tidak Setuju",
+                            "score":  2
+                        },
+                        {
+                            "text":  "Setuju",
+                            "score":  3
+                        },
+                        {
+                            "text":  "Sangat Setuju",
+                            "score":  4
+                        }
+                    ]
+    }
+]
